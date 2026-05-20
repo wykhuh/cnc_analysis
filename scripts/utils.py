@@ -68,7 +68,8 @@ def getSortedRanks(flatNodes):
       ranksCache[node['rank']] = node['rank_level']
 
   sortedRanks = dict(sorted(ranksCache.items(), key=lambda item: item[1], reverse=True))
-  del sortedRanks['stateofmatter']
+  if 'stateofmatter' in sortedRanks:
+      del sortedRanks['stateofmatter']
   return list(sortedRanks.keys())
 
 

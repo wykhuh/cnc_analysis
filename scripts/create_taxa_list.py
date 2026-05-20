@@ -6,6 +6,10 @@ taxa_csv_path = '../processed_data/San_Antonio_cnc_2026.csv'
 url ='https://api.inaturalist.org/v1/observations/taxonomy?verifiable=true&spam=false&project_id=273661'
 taxa_csv_path = '../processed_data/Taranaki_cnc_2026.csv'
 
+url ='https://api.inaturalist.org/v1/observations/taxonomy?verifiable=true&spam=false&taxon_id=47120&rank=family'
+taxa_csv_path = '../processed_data/arthropod_families.csv'
+
+
 print('start fetching')
 taxonomy_data = utils.fetchData(url)
 print('end fetching')
