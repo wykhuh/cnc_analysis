@@ -40,11 +40,19 @@ def buildTree(flatData, idField, parentIdField):
   return roots
 
 
-def flattenTree(node, taxonList, taxon):
+def flattenTree(node, taxonList, taxon, ranks):
     if(len(node['children']) > 0):
         for child in node['children']:
+            prev_taxon = {**taxon}
+            # remove ranks in prev_taxon that are lower than child rank
+            if ('rank' in prev_taxon and ranks.index(prev_taxon['rank']) > ranks.index(child['rank'])):
+                extra_ranks = ranks[ranks.index(prev_taxon['rank']):-1]
+                for rank in extra_ranks:
+                    if(rank in prev_taxon):
+                        del prev_taxon[rank]
+
             taxon = {
-                **taxon,
+                **prev_taxon,
                 child['rank']: child['name'],
                 "descendant_obs_count": child['descendant_obs_count'],
                 "direct_obs_count": child['direct_obs_count'],
@@ -55,7 +63,7 @@ def flattenTree(node, taxonList, taxon):
 
             taxonList.append(taxon)
 
-            flattenTree(child, taxonList, taxon)
+            flattenTree(child, taxonList, taxon, ranks)
     else:
         taxonList.append(taxon)
 
