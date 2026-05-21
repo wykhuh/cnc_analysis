@@ -1,89 +1,175 @@
-id,kingdom,phylum,subphylum,class,order,family,subfamily,tribe,subtribe,genus,subgenus,section,complex,species,hybrid,variety,subspecies,descendant_obs_count,direct_obs_count
-47604,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,,,,,,,,,,,,172,1
-632885,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Carduoideae,Cardueae,Carduinae,,,,,,,,,13,2
-48561,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Carduoideae,Cardueae,Carduinae,Cirsium,,,,,,,,10,1
-52989,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Carduoideae,Cardueae,Carduinae,Cirsium,,,,Cirsium vulgare,,,,5,5
-60132,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Carduoideae,Cardueae,Carduinae,Cirsium,,,,Cirsium arvense,,,,4,4
-53007,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Carduoideae,Cardueae,Carduinae,Carduus,,,,Carduus tenuiflorus,,,,1,1
-359450,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,,,,,,,,,,28,1
-53104,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Hypochaeridinae,Hypochaeris,,Hypochaeris,,Hypochaeris radicata,,,,4,4
-60145,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Hypochaeridinae,Leontodon,,,,,,,,4,1
-60973,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Hypochaeridinae,Leontodon,,,,Leontodon saxatilis,,,,3,3
-61906,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Hypochaeridinae,Helminthotheca,,,,Helminthotheca echioides,,,,2,2
-52913,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Cichoriinae,Cichorium,,,,Cichorium intybus,,,,1,1
-47602,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Crepidinae,Taraxacum,,Taraxacum,,Taraxacum officinale,,,,2,2
-53270,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Hyoseridinae,Sonchus,,,,,,,,12,3
-53269,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Hyoseridinae,Sonchus,,,,Sonchus asper,,,,1,1
-53294,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Hyoseridinae,Sonchus,,,,Sonchus oleraceus,,,,6,6
-406087,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Hyoseridinae,Sonchus,,,,Sonchus kirkii,,,,2,2
-48543,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Lactucinae,Mycelis,,,,Mycelis muralis,,,,1,1
-53108,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Lactucinae,Lactuca,,,,Lactuca virosa,,,,1,1
-632790,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,,,,,,,,,,,127,3
-153419,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Eupatorieae,,,,,,,,,,2,1
-120944,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Eupatorieae,Ageratinae,Ageratum,,,,Ageratum houstonianum,,,,1,1
-1410494,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Gnaphalieae,Gnaphaliinae,,,,,,,,,20,1
-53078,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Gnaphalieae,Gnaphaliinae,Pseudognaphalium,,,,,,,,5,2
-53083,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Gnaphalieae,Gnaphaliinae,Pseudognaphalium,,,,Pseudognaphalium luteoalbum,,,,3,3
-349798,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Gnaphalieae,Gnaphaliinae,Ozothamnus,,,,Ozothamnus leptophyllus,,,,6,6
-1600651,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Gnaphalieae,Gnaphaliinae,Ozothamnus,,,,Ozothamnus vauvilliersii,,,,1,1
-405627,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Gnaphalieae,Gnaphaliinae,Raoulia,,,,Raoulia glabra,,,,1,1
-405637,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Gnaphalieae,Gnaphaliinae,Raoulia,,,,Raoulia tenuicaulis,,,,1,1
-336323,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Gnaphalieae,Gnaphaliinae,Anaphalioides,,,,,,,,5,1
-399505,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Gnaphalieae,Gnaphaliinae,Anaphalioides,,,,Anaphalioides trinervis,,,,2,2
-399508,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Gnaphalieae,Gnaphaliinae,Anaphalioides,,,,Anaphalioides subrigida,,,,1,1
-399521,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Gnaphalieae,Gnaphaliinae,Anaphalioides,,,,Anaphalioides alpina,,,,1,1
-373844,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Anthemideae,,,,,,,,,,21,1
-53025,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Anthemideae,Cotulinae,Cotula,,,,Cotula australis,,,,1,1
-60151,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Anthemideae,Cotulinae,Soliva,,,,,,,,1,1
-379070,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Anthemideae,Cotulinae,Leptinella,,,,,,,,6,1
-336362,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Anthemideae,Cotulinae,Leptinella,,,,Leptinella squalida,,,,5,4
-412746,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Anthemideae,Cotulinae,Leptinella,,,,Leptinella squalida,,,Leptinella squalida squalida,1,1
-77281,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Anthemideae,Glebionidinae,Glebionis,,,,Glebionis segetum,,,,2,2
-52821,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Anthemideae,Matricariinae,Achillea,,,Achillea millefolium,Achillea millefolium,,,,10,10
-50879,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Conyzinae,Erigeron,,,,,,,,15,4
-76923,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Conyzinae,Erigeron,,Karvinskia,,Erigeron karvinskianus,,,,6,6
-76943,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Conyzinae,Erigeron,,Conyza,,Erigeron sumatrensis,,,,4,4
-370092,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Conyzinae,Erigeron,,Conyza,,Erigeron floribundus,,,,1,1
-324068,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Lagenophorinae,Lagenophora,,,,,,,,2,1
-468531,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Lagenophorinae,Lagenophora,,,,Lagenophora pumila,,,,1,1
-55563,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Bellidinae,Bellis,,,,Bellis perennis,,,,4,4
-129177,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Celmisiinae,Olearia,,,,,,,,10,1
-336338,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Celmisiinae,Olearia,,,,Olearia paniculata,,,,2,2
-366692,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Celmisiinae,Olearia,,,,Olearia arborescens,,,,1,1
-366693,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Celmisiinae,Olearia,,,,Olearia rani,,,,5,5
-468976,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Celmisiinae,Olearia,,,,Olearia rani,Olearia × macrodonta,,,1,1
-412149,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Celmisiinae,Celmisia,,,,Celmisia glandulosa,,Celmisia glandulosa latifolia,,3,3
-412147,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Celmisiinae,Celmisia,,,,Celmisia major,,Celmisia major brevis,,1,1
-48177,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Millerieae,Galinsoginae,Galinsoga,,,,,,,,5,1
-48178,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Millerieae,Galinsoginae,Galinsoga,,,,Galinsoga parviflora,,,,1,1
-56170,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Millerieae,Galinsoginae,Galinsoga,,,,Galinsoga quadriradiata,,,,3,3
-336384,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,,Brachyglottis,,,,Brachyglottis repanda,,,,7,7
-380727,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,,Brachyglottis,,,,Brachyglottis elaeagnifolia,,,,4,4
-400069,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,,Brachyglottis,,,,Brachyglottis greyi,,,,1,1
-400080,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,,Brachyglottis,,,,Brachyglottis kirkii,,,,2,2
-79044,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Senecioninae,Senecio,,,,Senecio elegans,,,,1,1
-336367,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Senecioninae,Senecio,,,,Senecio glastifolius,,,,2,2
-363595,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Senecioninae,Senecio,,,,Senecio angulatus,,,,1,1
-406024,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Senecioninae,Senecio,,,,Senecio skirrhodon,,,,1,1
-323168,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Senecioninae,Senecio,,,Senecio lautus,Senecio lautus,,,,1,1
-53208,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Senecioninae,Delairea,,,,Delairea odorata,,,,3,3
-62498,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Senecioninae,Jacobaea,,,,Jacobaea vulgaris,,,,6,6
-345097,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Tussilagininae,Roldana,,,,Roldana petasitis,,,,2,2
-322755,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Tussilagininae,Farfugium,,,,Farfugium japonicum,,,,2,2
-866362,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Tussilagininae,Cremanthodium,,,,Cremanthodium reniforme,,,,1,1
-51712,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Coreopsideae,,Bidens,,,,Bidens frondosa,,,,4,4
-48628,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Heliantheae,Zinniinae,Echinacea,,,,,,,,2,2
-634407,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Athroismeae,Symphyllocarpinae,Centipeda,,,,Centipeda cunninghamii,,,,1,1
-56024,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Vernonioideae,Arctotideae,Arctotidinae,Arctotheca,,,,Arctotheca calendula,,,,1,1
-884843,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Vernonioideae,Arctotideae,Gorteriinae,Gazania,,,,Gazania rigens,,,,2,2
-48039,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Campanulaceae,Lobelioideae,,,Lobelia,,,,,,,,26,1
-323829,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Campanulaceae,Lobelioideae,,,Lobelia,,Stenotium,,Lobelia anceps,,,,11,11
-403517,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Campanulaceae,Lobelioideae,,,Lobelia,,Hypsela,,Lobelia angulata,,,,14,14
-410166,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Campanulaceae,Campanuloideae,,,Wahlenbergia,,,,Wahlenbergia violacea,,,,2,2
-366638,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Alseuosmiaceae,,,,Alseuosmia,,,,Alseuosmia pusilla,,,,1,1
-399483,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Alseuosmiaceae,,,,Alseuosmia,,,,Alseuosmia macrophylla,,,,6,6
-184016,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Argophyllaceae,,,,Corokia,,,,Corokia cotoneaster,,,,1,1
-341690,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Rousseaceae,,,,Carpodetus,,,,Carpodetus serratus,,,,10,10
-210191,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Goodeniaceae,,,,Goodenia,,,,,,,,29,6
-1123429,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Goodeniaceae,,,,Goodenia,Goodenia,Goodenia,,Goodenia heenanii,,,,3,3
-1497018,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Goodeniaceae,,,,Goodenia,Goodenia,Goodenia,,Goodenia radicans,,,,20,20
+id,parent_id,rank,kingdom,phylum,subphylum,class,order,family,subfamily,tribe,subtribe,genus,subgenus,section,complex,species,hybrid,variety,subspecies,descendant_obs_count,direct_obs_count
+47126,48460,kingdom,Plantae,,,,,,,,,,,,,,,,,247,0
+211194,47126,phylum,Plantae,Tracheophyta,,,,,,,,,,,,,,,,247,0
+47125,211194,subphylum,Plantae,Tracheophyta,Angiospermae,,,,,,,,,,,,,,,247,0
+47124,47125,class,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,,,,,,,,,,,,,,247,0
+47605,47124,order,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,,,,,,,,,,,,,247,0
+47604,47605,family,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,,,,,,,,,,,,172,1
+201654,47604,subfamily,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Carduoideae,,,,,,,,,,,13,0
+632883,201654,tribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Carduoideae,Cardueae,,,,,,,,,,13,0
+632885,632883,subtribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Carduoideae,Cardueae,Carduinae,,,,,,,,,13,2
+48561,632885,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Carduoideae,Cardueae,Carduinae,Cirsium,,,,,,,,10,1
+52989,48561,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Carduoideae,Cardueae,Carduinae,Cirsium,,,,Cirsium vulgare,,,,5,5
+60132,48561,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Carduoideae,Cardueae,Carduinae,Cirsium,,,,Cirsium arvense,,,,4,4
+52991,632885,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Carduoideae,Cardueae,Carduinae,Carduus,,,,,,,,1,0
+53007,52991,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Carduoideae,Cardueae,Carduinae,Carduus,,,,Carduus tenuiflorus,,,,1,1
+447425,47604,subfamily,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,,,,,,,,,,,28,0
+359450,447425,tribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,,,,,,,,,,28,1
+558819,359450,subtribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Hypochaeridinae,,,,,,,,,10,0
+51900,558819,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Hypochaeridinae,Hypochaeris,,,,,,,,4,0
+1598300,51900,section,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Hypochaeridinae,Hypochaeris,,Hypochaeris,,,,,,4,0
+53104,1598300,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Hypochaeridinae,Hypochaeris,,Hypochaeris,,Hypochaeris radicata,,,,4,4
+60145,558819,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Hypochaeridinae,Leontodon,,,,,,,,4,1
+60973,60145,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Hypochaeridinae,Leontodon,,,,Leontodon saxatilis,,,,3,3
+61907,558819,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Hypochaeridinae,Helminthotheca,,,,,,,,2,0
+61906,61907,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Hypochaeridinae,Helminthotheca,,,,Helminthotheca echioides,,,,2,2
+632700,359450,subtribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Cichoriinae,,,,,,,,,1,0
+52914,632700,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Cichoriinae,Cichorium,,,,,,,,1,0
+52913,52914,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Cichoriinae,Cichorium,,,,Cichorium intybus,,,,1,1
+632701,359450,subtribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Crepidinae,,,,,,,,,2,0
+47603,632701,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Crepidinae,Taraxacum,,,,,,,,2,0
+967514,47603,section,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Crepidinae,Taraxacum,,Taraxacum,,,,,,2,0
+47602,967514,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Crepidinae,Taraxacum,,Taraxacum,,Taraxacum officinale,,,,2,2
+632703,359450,subtribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Hyoseridinae,,,,,,,,,12,0
+53270,632703,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Hyoseridinae,Sonchus,,,,,,,,12,3
+53269,53270,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Hyoseridinae,Sonchus,,,,Sonchus asper,,,,1,1
+53294,53270,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Hyoseridinae,Sonchus,,,,Sonchus oleraceus,,,,6,6
+406087,53270,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Hyoseridinae,Sonchus,,,,Sonchus kirkii,,,,2,2
+632704,359450,subtribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Lactucinae,,,,,,,,,2,0
+48544,632704,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Lactucinae,Mycelis,,,,,,,,1,0
+48543,48544,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Lactucinae,Mycelis,,,,Mycelis muralis,,,,1,1
+53106,632704,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Lactucinae,Lactuca,,,,,,,,1,0
+53108,53106,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Cichorioideae,Cichorieae,Lactucinae,Lactuca,,,,Lactuca virosa,,,,1,1
+632790,47604,subfamily,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,,,,,,,,,,,127,3
+153419,632790,tribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Eupatorieae,,,,,,,,,,2,1
+901044,153419,subtribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Eupatorieae,Ageratinae,,,,,,,,,1,0
+120945,901044,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Eupatorieae,Ageratinae,Ageratum,,,,,,,,1,0
+120944,120945,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Eupatorieae,Ageratinae,Ageratum,,,,Ageratum houstonianum,,,,1,1
+324787,632790,tribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Gnaphalieae,,,,,,,,,,20,0
+1410494,324787,subtribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Gnaphalieae,Gnaphaliinae,,,,,,,,,20,1
+53078,1410494,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Gnaphalieae,Gnaphaliinae,Pseudognaphalium,,,,,,,,5,2
+53083,53078,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Gnaphalieae,Gnaphaliinae,Pseudognaphalium,,,,Pseudognaphalium luteoalbum,,,,3,3
+143891,1410494,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Gnaphalieae,Gnaphaliinae,Ozothamnus,,,,,,,,7,1
+349798,143891,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Gnaphalieae,Gnaphaliinae,Ozothamnus,,,,Ozothamnus leptophyllus,,,,5,5
+1600651,143891,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Gnaphalieae,Gnaphaliinae,Ozothamnus,,,,Ozothamnus vauvilliersii,,,,1,1
+147226,1410494,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Gnaphalieae,Gnaphaliinae,Raoulia,,,,,,,,2,0
+405627,147226,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Gnaphalieae,Gnaphaliinae,Raoulia,,,,Raoulia glabra,,,,1,1
+405637,147226,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Gnaphalieae,Gnaphaliinae,Raoulia,,,,Raoulia tenuicaulis,,,,1,1
+336323,1410494,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Gnaphalieae,Gnaphaliinae,Anaphalioides,,,,,,,,5,1
+399505,336323,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Gnaphalieae,Gnaphaliinae,Anaphalioides,,,,Anaphalioides trinervis,,,,2,2
+399508,336323,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Gnaphalieae,Gnaphaliinae,Anaphalioides,,,,Anaphalioides subrigida,,,,1,1
+399521,336323,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Gnaphalieae,Gnaphaliinae,Anaphalioides,,,,Anaphalioides alpina,,,,1,1
+373844,632790,tribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Anthemideae,,,,,,,,,,21,1
+900985,373844,subtribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Anthemideae,Cotulinae,,,,,,,,,8,0
+53026,900985,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Anthemideae,Cotulinae,Cotula,,,,,,,,1,0
+53025,53026,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Anthemideae,Cotulinae,Cotula,,,,Cotula australis,,,,1,1
+60151,900985,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Anthemideae,Cotulinae,Soliva,,,,,,,,1,1
+379070,900985,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Anthemideae,Cotulinae,Leptinella,,,,,,,,6,1
+336362,379070,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Anthemideae,Cotulinae,Leptinella,,,,Leptinella squalida,,,,5,4
+412746,336362,subspecies,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Anthemideae,Cotulinae,Leptinella,,,,Leptinella squalida,,,Leptinella squalida squalida,1,1
+900986,373844,subtribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Anthemideae,Glebionidinae,,,,,,,,,2,0
+59906,900986,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Anthemideae,Glebionidinae,Glebionis,,,,,,,,2,0
+77281,59906,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Anthemideae,Glebionidinae,Glebionis,,,,Glebionis segetum,,,,2,2
+900988,373844,subtribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Anthemideae,Matricariinae,,,,,,,,,10,0
+52818,900988,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Anthemideae,Matricariinae,Achillea,,,,,,,,10,0
+1105043,52818,complex,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Anthemideae,Matricariinae,Achillea,,,Achillea millefolium,,,,,10,0
+52821,1105043,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Anthemideae,Matricariinae,Achillea,,,Achillea millefolium,Achillea millefolium,,,,10,10
+461542,632790,tribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,,,,,,,,,,35,0
+972882,461542,subtribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Conyzinae,,,,,,,,,15,0
+50879,972882,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Conyzinae,Erigeron,,,,,,,,15,4
+1607849,50879,section,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Conyzinae,Erigeron,,Karvinskia,,,,,,6,0
+76923,1607849,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Conyzinae,Erigeron,,Karvinskia,,Erigeron karvinskianus,,,,6,6
+1608015,50879,section,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Conyzinae,Erigeron,,Conyza,,,,,,5,0
+76943,1608015,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Conyzinae,Erigeron,,Conyza,,Erigeron sumatrensis,,,,4,4
+370092,1608015,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Conyzinae,Erigeron,,Conyza,,Erigeron floribundus,,,,1,1
+1169434,461542,subtribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Lagenophorinae,,,,,,,,,2,0
+324068,1169434,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Lagenophorinae,Lagenophora,,,,,,,,2,1
+468531,324068,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Lagenophorinae,Lagenophora,,,,Lagenophora pumila,,,,1,1
+1265661,461542,subtribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Bellidinae,,,,,,,,,4,0
+55564,1265661,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Bellidinae,Bellis,,,,,,,,4,0
+55563,55564,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Bellidinae,Bellis,,,,Bellis perennis,,,,4,4
+1347598,461542,subtribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Celmisiinae,,,,,,,,,14,0
+129177,1347598,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Celmisiinae,Olearia,,,,,,,,10,1
+336338,129177,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Celmisiinae,Olearia,,,,Olearia paniculata,,,,2,2
+366692,129177,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Celmisiinae,Olearia,,,,Olearia arborescens,,,,1,1
+366693,129177,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Celmisiinae,Olearia,,,,Olearia rani,,,,5,5
+468976,129177,hybrid,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Celmisiinae,Olearia,,,,Olearia rani,Olearia × macrodonta,,,1,1
+323229,1347598,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Celmisiinae,Celmisia,,,,,,,,4,0
+400559,323229,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Celmisiinae,Celmisia,,,,Celmisia glandulosa,,,,3,0
+412149,400559,variety,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Celmisiinae,Celmisia,,,,Celmisia glandulosa,,Celmisia glandulosa latifolia,,3,3
+400569,323229,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Celmisiinae,Celmisia,,,,Celmisia major,,,,1,0
+412147,400569,variety,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Astereae,Celmisiinae,Celmisia,,,,Celmisia major,,Celmisia major brevis,,1,1
+546205,632790,tribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Millerieae,,,,,,,,,,5,0
+977736,546205,subtribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Millerieae,Galinsoginae,,,,,,,,,5,0
+48177,977736,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Millerieae,Galinsoginae,Galinsoga,,,,,,,,5,1
+48178,48177,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Millerieae,Galinsoginae,Galinsoga,,,,Galinsoga parviflora,,,,1,1
+56170,48177,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Millerieae,Galinsoginae,Galinsoga,,,,Galinsoga quadriradiata,,,,3,3
+568270,632790,tribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,,,,,,,,,,34,0
+184566,568270,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,,Brachyglottis,,,,,,,,14,0
+336384,184566,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,,Brachyglottis,,,,Brachyglottis repanda,,,,7,7
+380727,184566,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,,Brachyglottis,,,,Brachyglottis elaeagnifolia,,,,4,4
+400069,184566,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,,Brachyglottis,,,,Brachyglottis greyi,,,,1,1
+400080,184566,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,,Brachyglottis,,,,Brachyglottis kirkii,,,,2,2
+901794,568270,subtribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Senecioninae,Brachyglottis,,,,,,,,15,0
+53207,901794,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Senecioninae,Senecio,,,,,,,,6,0
+79044,53207,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Senecioninae,Senecio,,,,Senecio elegans,,,,1,1
+336367,53207,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Senecioninae,Senecio,,,,Senecio glastifolius,,,,2,2
+363595,53207,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Senecioninae,Senecio,,,,Senecio angulatus,,,,1,1
+406024,53207,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Senecioninae,Senecio,,,,Senecio skirrhodon,,,,1,1
+1063553,53207,complex,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Senecioninae,Senecio,,,Senecio lautus,Senecio skirrhodon,,,,1,0
+323168,1063553,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Senecioninae,Senecio,,,Senecio lautus,Senecio lautus,,,,1,1
+53209,901794,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Senecioninae,Delairea,,,,,,,,3,0
+53208,53209,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Senecioninae,Delairea,,,,Delairea odorata,,,,3,3
+62499,901794,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Senecioninae,Jacobaea,,,,,,,,6,0
+62498,62499,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Senecioninae,Jacobaea,,,,Jacobaea vulgaris,,,,6,6
+936861,568270,subtribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Tussilagininae,Brachyglottis,,,,,,,,5,0
+156248,936861,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Tussilagininae,Roldana,,,,,,,,2,0
+345097,156248,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Tussilagininae,Roldana,,,,Roldana petasitis,,,,2,2
+322946,936861,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Tussilagininae,Farfugium,,,,,,,,2,0
+322755,322946,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Tussilagininae,Farfugium,,,,Farfugium japonicum,,,,2,2
+575648,936861,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Tussilagininae,Cremanthodium,,,,,,,,1,0
+866362,575648,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Senecioneae,Tussilagininae,Cremanthodium,,,,Cremanthodium reniforme,,,,1,1
+568277,632790,tribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Coreopsideae,,,,,,,,,,4,0
+50204,568277,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Coreopsideae,,Bidens,,,,,,,,4,0
+51712,50204,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Coreopsideae,,Bidens,,,,Bidens frondosa,,,,4,4
+605446,632790,tribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Heliantheae,,,,,,,,,,2,0
+960953,605446,subtribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Heliantheae,Zinniinae,,,,,,,,,2,0
+48628,960953,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Heliantheae,Zinniinae,Echinacea,,,,,,,,2,2
+632793,632790,tribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Athroismeae,,,,,,,,,,1,0
+634403,632793,subtribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Athroismeae,Symphyllocarpinae,,,,,,,,,1,0
+634408,634403,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Athroismeae,Symphyllocarpinae,Centipeda,,,,,,,,1,0
+634407,634408,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Asteroideae,Athroismeae,Symphyllocarpinae,Centipeda,,,,Centipeda cunninghamii,,,,1,1
+1442431,47604,subfamily,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Vernonioideae,,,,,,,,,,,3,0
+632785,1442431,tribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Vernonioideae,Arctotideae,,,,,,,,,,3,0
+632763,632785,subtribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Vernonioideae,Arctotideae,Arctotidinae,,,,,,,,,1,0
+56025,632763,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Vernonioideae,Arctotideae,Arctotidinae,Arctotheca,,,,,,,,1,0
+56024,56025,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Vernonioideae,Arctotideae,Arctotidinae,Arctotheca,,,,Arctotheca calendula,,,,1,1
+632806,632785,subtribe,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Vernonioideae,Arctotideae,Gorteriinae,,,,,,,,,2,0
+56151,632806,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Vernonioideae,Arctotideae,Gorteriinae,Gazania,,,,,,,,2,0
+884843,56151,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Asteraceae,Vernonioideae,Arctotideae,Gorteriinae,Gazania,,,,Gazania rigens,,,,2,2
+48040,47605,family,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Campanulaceae,,,,,,,,,,,,28,0
+850993,48040,subfamily,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Campanulaceae,Lobelioideae,,,,,,,,,,,26,0
+48039,850993,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Campanulaceae,Lobelioideae,,,Lobelia,,,,,,,,26,1
+999667,48039,section,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Campanulaceae,Lobelioideae,,,Lobelia,,Stenotium,,,,,,11,0
+323829,999667,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Campanulaceae,Lobelioideae,,,Lobelia,,Stenotium,,Lobelia anceps,,,,11,11
+999669,48039,section,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Campanulaceae,Lobelioideae,,,Lobelia,,Hypsela,,,,,,14,0
+403517,999669,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Campanulaceae,Lobelioideae,,,Lobelia,,Hypsela,,Lobelia angulata,,,,14,14
+850994,48040,subfamily,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Campanulaceae,Campanuloideae,,,,,,,,,,,2,0
+119729,850994,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Campanulaceae,Campanuloideae,,,Wahlenbergia,,,,,,,,2,0
+410166,119729,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Campanulaceae,Campanuloideae,,,Wahlenbergia,,,,Wahlenbergia violacea,,,,2,2
+71432,47605,family,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Alseuosmiaceae,,,,,,,,,,,,7,0
+366663,71432,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Alseuosmiaceae,,,,Alseuosmia,,,,,,,,7,0
+366638,366663,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Alseuosmiaceae,,,,Alseuosmia,,,,Alseuosmia pusilla,,,,1,1
+399483,366663,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Alseuosmiaceae,,,,Alseuosmia,,,,Alseuosmia macrophylla,,,,6,6
+71444,47605,family,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Argophyllaceae,,,,,,,,,,,,1,0
+184013,71444,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Argophyllaceae,,,,Corokia,,,,,,,,1,0
+184016,184013,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Argophyllaceae,,,,Corokia,,,,Corokia cotoneaster,,,,1,1
+71614,47605,family,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Rousseaceae,,,,,,,,,,,,10,0
+341689,71614,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Rousseaceae,,,,Carpodetus,,,,,,,,10,0
+341690,341689,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Rousseaceae,,,,Carpodetus,,,,Carpodetus serratus,,,,10,10
+145472,47605,family,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Goodeniaceae,,,,,,,,,,,,29,0
+210191,145472,genus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Goodeniaceae,,,,Goodenia,,,,,,,,29,6
+1629394,210191,subgenus,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Goodeniaceae,,,,Goodenia,Goodenia,,,,,,,23,0
+1629395,1629394,section,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Goodeniaceae,,,,Goodenia,Goodenia,Goodenia,,,,,,23,0
+1123429,1629395,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Goodeniaceae,,,,Goodenia,Goodenia,Goodenia,,Goodenia heenanii,,,,3,3
+1497018,1629395,species,Plantae,Tracheophyta,Angiospermae,Magnoliopsida,Asterales,Goodeniaceae,,,,Goodenia,Goodenia,Goodenia,,Goodenia radicans,,,,20,20

@@ -10,8 +10,10 @@ def fetchData(url):
 
 def downloadData(url, path):
     response = requests.get(url)
+    json_data = response.json()
     with open(path, 'w') as f:
-        json.dump(response.json(), f)
+        json.dump(json_data, f)
+    return json_data['results']
 
 
 def buildTree(flatData, idField, parentIdField):
@@ -47,11 +49,11 @@ def flattenTree(node, taxonList, taxon):
                 "descendant_obs_count": child['descendant_obs_count'],
                 "direct_obs_count": child['direct_obs_count'],
                 "id": child["id"],
-                'rank': child['rank']
+                "parent_id": child["parent_id"],
+                'rank': child['rank'],
             }
 
-            if('count' in child):
-                taxonList.append(taxon)
+            taxonList.append(taxon)
 
             flattenTree(child, taxonList, taxon)
     else:
@@ -77,6 +79,6 @@ def getSortedRanks(flatNodes):
 def createTaxaListCsv(taxonList, ranks):
     df = pd.DataFrame(taxonList)
     df = df.drop_duplicates()
-    return  df[['id'] + ranks + ['rank', 'descendant_obs_count', 'direct_obs_count']]
+    return  df[['id', 'parent_id', 'rank'] + ranks + ['descendant_obs_count', 'direct_obs_count']]
 
 
